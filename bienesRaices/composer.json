@@ -1,0 +1,16 @@
+{
+    "name": "adrian/bienes-raices",
+    "description": "Creando un Proyecto con POO",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Adrian j Paredes"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "./classes"
+       }
+    }   
+}
